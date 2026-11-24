@@ -6,6 +6,7 @@ This project is intentionally vulnerable! It contains known vulnerabilities and 
 
 ## About
 
+
 Blab-a-Gag is a simple forum type application that allows:
 
 - Users can post a one-liner joke.
